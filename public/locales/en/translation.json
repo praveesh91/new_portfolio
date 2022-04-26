@@ -1,0 +1,5 @@
+{
+  "DEMO": "Click on Deutch to translate",
+  "DESCRIPTION": "Edit src/App.js and save to reload.",
+  "DATE": "Today is {{date, DATE_HUGE}}"
+}

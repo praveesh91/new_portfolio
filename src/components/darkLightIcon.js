@@ -2,8 +2,6 @@ import React, { useState, useEffect } from "react";
 import { useSpring, animated } from "react-spring";
 
 export default function DarkLightIcon() {
-  // const [isDarkMode, toggle] = useState(true);
-
   const [darkMode, setDarkMode] = useState(false);
 
   const [toggleMenu, setToggleMenu] = useState(false);

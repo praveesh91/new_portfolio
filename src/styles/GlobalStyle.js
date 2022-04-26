@@ -278,7 +278,7 @@ figure,figure li{
     display: flex;
     align-items: center;
     position: relative;
-    margin: 10px 0 0 0;
+    margin: 10px 0 30px 0;
     width: 100%;
     font-size: clamp(26px, 5vw, var(--fz-heading));
     white-space: nowrap;

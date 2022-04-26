@@ -30,7 +30,7 @@ export const jobsData = [
     company: "Robert Bosch",
     location: "Bangalore, KA",
     range: "January - April 2018",
-    url: "https://web.northeastern.edu/scout/",
+    url: "https://www.bosch-softwaretechnologies.com/en/",
     description:
       '<ul>\n<li>Worked with a team of three designers to build a marketing website and e-commerce platform for <a href="https://blistabloc.com" target="_blank" rel="nofollow noopener noreferrer">blistabloc</a>, an ambitious startup originating from Northeastern</li>\n<li>Helped solidify a brand direction for blistabloc that spans both packaging and web</li>\n<li>Interfaced with clients on a weekly basis, providing technological expertise</li>\n</ul>',
   },
@@ -39,7 +39,7 @@ export const jobsData = [
     company: "Webenza India Pvt Ltd",
     location: "Bangalore, KA",
     range: "July - December 2017",
-    url: "https://www.apple.com/music/",
+    url: "https://www.webenza.com/",
     description:
       "<ul>\n<li>Developed and shipped highly interactive web applications for Apple Music using Ember.js</li>\n<li>Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs</li>\n<li>Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser</li>\n<li>Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps</li>\n</ul>",
   },
@@ -48,7 +48,7 @@ export const jobsData = [
     company: "IBM India Pvt Ltd.",
     location: "Hyderabad, TS",
     range: "January - April 2018",
-    url: "https://web.northeastern.edu/scout/",
+    url: "https://www.ibm.com/in-en",
     description:
       '<ul>\n<li>Worked with a team of three designers to build a marketing website and e-commerce platform for <a href="https://blistabloc.com" target="_blank" rel="nofollow noopener noreferrer">blistabloc</a>, an ambitious startup originating from Northeastern</li>\n<li>Helped solidify a brand direction for blistabloc that spans both packaging and web</li>\n<li>Interfaced with clients on a weekly basis, providing technological expertise</li>\n</ul>',
   },
@@ -57,7 +57,7 @@ export const jobsData = [
     company: "CREATE@Amrita",
     location: "Kollam, KE",
     range: "July - December 2017",
-    url: "https://www.apple.com/music/",
+    url: "http://www.amritacreate.org/",
     description:
       "<ul>\n<li>Developed and shipped highly interactive web applications for Apple Music using Ember.js</li>\n<li>Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs</li>\n<li>Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser</li>\n<li>Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps</li>\n</ul>",
   },
@@ -66,8 +66,8 @@ export const works = [
   {
     title: "Ant Design Dashboard",
     tech: ["VS Code", "Ant Design", "React", "Javascript", ""],
-    github: "https://github.com/bchiang7/halcyon-site",
-    external: "https://halcyon-theme.netlify.com/",
+    github: "https://github.com/praveesh91/SITE_demo/tree/master",
+    external: "https://master.d21h3qsh5st3dt.amplifyapp.com/dashboard",
     cta: null,
     image: "content/featured/HalcyonTheme/demo.png",
     description:
@@ -76,8 +76,8 @@ export const works = [
   {
     title: "Bankist Webiste",
     tech: ["VS Code", "Javascript"],
-    github: "https://github.com/bchiang7/halcyon-site",
-    external: "https://halcyon-theme.netlify.com/",
+    github: "https://github.com/praveesh91/Banking-template",
+    external: "https://festive-hypatia-120fbb.netlify.app/",
     cta: null,
     image: "content/featured/SpotifyProfile/demo.png",
     description:
@@ -86,8 +86,9 @@ export const works = [
   {
     title: "Parking Management Dashboard",
     tech: ["VS Code", "Javascript", "React.Js", "Material UI"],
-    github: "https://github.com/bchiang7/halcyon-site",
-    external: "https://halcyon-theme.netlify.com/",
+    github:
+      "https://github.com/praveesh91/React_MareialUI_Dashboard/tree/master",
+    external: "https://master.d33iiktbeebmnt.amplifyapp.com/",
     cta: null,
     image: "content/featured/SpotifyProfileV2/demo.png",
     description:
@@ -99,7 +100,6 @@ export const projectList = [
     frontmatter: {
       title: "Online Labs",
       tech: ["Javascript", "Bootstrap", "JQuery"],
-      github: "https://github.com/bchiang7/time-to-have-more-fun",
       external: "http://www.olabs.edu.in/",
     },
     html: "<p>Online Labs is a web based experiment simulation interface build purely in native javascript.</p>",
@@ -108,8 +108,7 @@ export const projectList = [
     frontmatter: {
       title: "Product Portal",
       tech: ["React.js", "Ant Design", "Javascript"],
-      github: "https://github.com/bchiang7/time-to-have-more-fun",
-      // external: "https://time-to-have-more-fun.now.sh/",
+      github: "https://github.com/praveesh91/SITE---Store",
     },
     html: "<p>Web interface build for the client to manage and create various regulations. This is build with React and AntD, involves integrating backend API built with Java.</p>",
   },
@@ -117,7 +116,7 @@ export const projectList = [
     frontmatter: {
       title: "Corporate Website",
       tech: ["React.js", "Bootstrap", "AWS Amplify"],
-      github: "https://github.com/bchiang7/time-to-have-more-fun",
+      github: "https://github.com/praveesh91/Task_Website/tree/master",
       external: "https://master.d39vzl9oqgwjit.amplifyapp.com/",
     },
     html: "<p>A single page, responsive web interface for corporate, built with Javascript, Bootstrap and hosted in AWS Amplify</p>",
@@ -126,7 +125,7 @@ export const projectList = [
     frontmatter: {
       title: "E-Waste Management",
       tech: ["React.js", "Bootstrap", "AWS Amplify"],
-      github: "https://github.com/bchiang7/time-to-have-more-fun",
+      github: "https://github.com/praveesh91/wasteManagementSite",
       external: "https://main.d31ttz1ari6y6f.amplifyapp.com/",
     },
     html: "<p>A single page, responsiive web interface build purely in HTML5, CSS3, and Bootstrap components and hosted in AWS Amplify.</p>",
@@ -135,7 +134,7 @@ export const projectList = [
     frontmatter: {
       title: "Quiz Application",
       tech: ["React.js", "Material UI", "AWS Amplify"],
-      github: "https://github.com/bchiang7/time-to-have-more-fun",
+      github: "https://github.com/praveesh91/weinvestQuiz",
       external: "https://master.d3ezzvdpu3szgl.amplifyapp.com/",
     },
     html: "<p>This is one of the task website which I created during my hiring process build with Material UI and ReactJs</p>",
@@ -145,7 +144,6 @@ export const projectList = [
       title: "Product Store",
       tech: ["React.js", "Ant Design", "Javascript"],
       github: "https://github.com/bchiang7/time-to-have-more-fun",
-      // external: "https://time-to-have-more-fun.now.sh/",
     },
     html: "<p>A product inventory for the client to showcase their wide range of products to the users . Tech stack involves ReactJs, Ant design and integration of backend API's</p>",
   },

@@ -104,26 +104,26 @@ const GlobalStyle = createGlobalStyle`
    color:#2f3c56
  }
  .white-content .project-inner,.white-content .project-inner > header {
-   background-color :white;
+   background-color :white !important;
  }
  .white-content .services-inner{
-  background-color :#dbdbdb;
+  background-color :#dbdbdb  !important;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
  }
  .white-content .project-inner > header > .project-description {
   background-image :none;
-  background-color :white;
+  background-color :white !important;
 }
 .white-content .wrapper:after{
   border:2px solid #a29ee9
 }
 .white-content .wrapper{
-  background-color: #b8b5f4;
+  background-color: #b8b5f4  !important;
 }
 .white-content .inner button:hover,
 .white-content .inner button:focus,
 .white-content .inner button:active{
-  background-color:#a29ee9;
+  background-color:#a29ee9  !important;
   color:white
 }
 .white-content a.inline-link,
@@ -132,7 +132,7 @@ const GlobalStyle = createGlobalStyle`
   color:#6934E1
 }
 .white-content .project-image a{
-  background-color: #adaaf0;
+  background-color: #adaaf0 !important;
 }
 .white-content .project-image a:before{
   border-radius: var(--border-radius);
@@ -154,7 +154,7 @@ const GlobalStyle = createGlobalStyle`
 }
 
 .white-content .customCoverFlow{
-  background-color:white;
+  background-color:white !important;
 }
 
 figure,figure li{
@@ -169,7 +169,7 @@ figure,figure li{
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: var(--navy);
+    background-color: var(--navy)  !important;
     color: var(--slate);
     font-family: var(--font-sans);
     font-size: var(--fz-xl);
@@ -187,7 +187,7 @@ figure,figure li{
       overflow: hidden;
 
       header {
-        background-color: transparent;
+        background-color: transparent !important;
       }
 
       #content > * {

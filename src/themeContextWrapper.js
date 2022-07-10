@@ -7,6 +7,10 @@ export default function ThemeContextWrapper(props) {
   function changeTheme(theme) {
     setTheme(theme);
   }
+  console.log(theme);
+  useEffect(() => {
+    document.body.classList.add("white-content");
+  }, []);
 
   useEffect(() => {
     switch (theme) {

@@ -5,7 +5,7 @@ export default function DarkLightIcon() {
   const [darkMode, setDarkMode] = useState(false);
 
   const [toggleMenu, setToggleMenu] = useState(false);
-  const [themeName, setThemeName] = useState("dark");
+  const [themeName, setThemeName] = useState("light");
   const [update, setUpdate] = useState(false);
   useEffect(() => {
     if (getCookie("themeValue")) {

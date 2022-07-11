@@ -13,14 +13,10 @@ export default function ThemeContextWrapper(props) {
   }, []);
 
   useEffect(() => {
-    switch (theme) {
-      case themes.light:
-        document.body.classList.add("white-content");
-        break;
-      case themes.dark:
-      default:
-        document.body.classList.remove("white-content");
-        break;
+    if (theme === "white-content") {
+      document.body.classList.add("white-content");
+    } else {
+      document.body.classList.remove("white-content");
     }
   }, [theme]);
 

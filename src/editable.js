@@ -32,7 +32,7 @@ export const jobsData = [
     range: "January - April 2018",
     url: "https://www.bosch-softwaretechnologies.com/en/",
     description:
-      '<ul>\n<li>Worked with a team of three designers to build a marketing website and e-commerce platform for <a href="https://blistabloc.com" target="_blank" rel="nofollow noopener noreferrer">blistabloc</a>, an ambitious startup originating from Northeastern</li>\n<li>Helped solidify a brand direction for blistabloc that spans both packaging and web</li>\n<li>Interfaced with clients on a weekly basis, providing technological expertise</li>\n</ul>',
+      "<ul>\n<li>Developed product inventory where user can subscribe to various plans for respective services.</li>\n<li>Developed user interface with ReactJS (Hooks), Typescript and Antd to meet requirements.</li>\n<li>Implemented global state management using Redux and internationalization with react-i18next.</li>\n<li>Familiar with Continuous Integration/Delivery pipeline for cloud using Jenkins, SonarQube, Docker.</li>\n</ul>",
   },
   {
     title: "Software Engineer",
@@ -41,7 +41,7 @@ export const jobsData = [
     range: "July - December 2017",
     url: "https://www.webenza.com/",
     description:
-      "<ul>\n<li>Developed and shipped highly interactive web applications for Apple Music using Ember.js</li>\n<li>Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs</li>\n<li>Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser</li>\n<li>Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps</li>\n</ul>",
+      "<ul>\n<li>Developed a parking solution admin dashboard with ReactJS components and Material UI.</li>\n<li>Integrate data from API's to create dashboard widgets like charts, Google maps using axios.</li>\n<li>Troubleshoot interface software and debugged application code to improve functionality and performance.s</li>\n</ul>",
   },
   {
     title: "Software Developer",
@@ -50,7 +50,7 @@ export const jobsData = [
     range: "January - April 2018",
     url: "https://www.ibm.com/in-en",
     description:
-      '<ul>\n<li>Worked with a team of three designers to build a marketing website and e-commerce platform for <a href="https://blistabloc.com" target="_blank" rel="nofollow noopener noreferrer">blistabloc</a>, an ambitious startup originating from Northeastern</li>\n<li>Helped solidify a brand direction for blistabloc that spans both packaging and web</li>\n<li>Interfaced with clients on a weekly basis, providing technological expertise</li>\n</ul>',
+      "<ul>\n<li>Migration project which involved building reusable components and features using ReactJS Components, Forms, Events, Keys, Router.</li>\n<li>Improved load time of the webpage by memoizing with hooks and lazy loading.</li>\n</ul>",
   },
   {
     title: "UI Developer",
@@ -59,7 +59,7 @@ export const jobsData = [
     range: "July - December 2017",
     url: "http://www.amritacreate.org/",
     description:
-      "<ul>\n<li>Developed and shipped highly interactive web applications for Apple Music using Ember.js</li>\n<li>Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs</li>\n<li>Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser</li>\n<li>Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps</li>\n</ul>",
+      "<ul>\n<li>Transforming learning analytics platform from fluid design to responsive theme with Twitter Bootstrap which improved website traffic.</li>\n<li>Cross Browser compatibility testing was performed.</li>\n<li>Developing experiment simulations with native javascript.</li>\n<li>Integrate various jQuery plugins into the development cycle.</li>\n</ul>",
   },
 ];
 export const works = [

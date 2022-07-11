@@ -11,14 +11,15 @@ export default function DarkLightIcon() {
     if (getCookie("themeValue")) {
       getCookie("themeValue") ? setThemeName("dark") : setThemeName("light");
     } else {
-      setCookie(
-        "themeValue",
-        window.matchMedia("(prefers-color-scheme: light)").matches,
-        30
-      );
-      window.matchMedia("(prefers-color-scheme: light)").matches
-        ? setThemeName("dark")
-        : setThemeName("light");
+      // setCookie(
+      //   "themeValue",
+      //   window.matchMedia("(prefers-color-scheme: light)").matches,
+      //   30
+      // );
+      // window.matchMedia("(prefers-color-scheme: light)").matches
+      //   ? setThemeName("dark")
+      //   : setThemeName("light");
+      setCookie("themeValue", false);
     }
     getCookie("themeValue") === "true"
       ? document.body.classList.remove("white-content")

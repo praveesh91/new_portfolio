@@ -15,7 +15,7 @@ export const services = [
     image: "content/services/conversation.png",
     heading: "Consulting",
     description:
-      "Worked with a team of three designers to build a marketing website and e-commerce platform ",
+      " Consult with clients to determine the scope of website development projects, implement SEO strategies to increase traffic flow to websites, and maintain websites.",
   },
   {
     image: "content/services/smartphone.png",
@@ -108,7 +108,7 @@ export const projectList = [
     frontmatter: {
       title: "Product Portal",
       tech: ["React.js", "Ant Design", "Javascript"],
-      github: "https://github.com/praveesh91/SITE---Store",
+      github: "",
     },
     html: "<p>Web interface build for the client to manage and create various regulations. This is build with React and AntD, involves integrating backend API built with Java.</p>",
   },
@@ -143,7 +143,7 @@ export const projectList = [
     frontmatter: {
       title: "Product Store",
       tech: ["React.js", "Ant Design", "Javascript"],
-      github: "https://github.com/bchiang7/time-to-have-more-fun",
+      github: "",
     },
     html: "<p>A product inventory for the client to showcase their wide range of products to the users . Tech stack involves ReactJs, Ant design and integration of backend API's</p>",
   },

@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+[smallDevice.pdf](https://github.com/praveesh91/new_portfolio/files/11678792/smallDevice.pdf)
+[mediumDevice.pdf](https://github.com/praveesh91/new_portfolio/files/11678793/mediumDevice.pdf)
+[largeDevice.pdf](https://github.com/praveesh91/new_portfolio/files/11678795/largeDevice.pdf)
+[extraSmallDevice.pdf](https://github.com/praveesh91/new_portfolio/files/11678796/extraSmallDevice.pdf)
 
 In the project directory, you can run:
 
